@@ -1,3 +1,3 @@
 # Hangman_Game
-this is my first repositary.<br>
+This is my first Git Repository.<br>
 Author - Akash Mathur
